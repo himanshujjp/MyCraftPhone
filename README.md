@@ -1,5 +1,8 @@
 # 🚀 MyCraftPhone – Your Ultimate VoIP Softphone Solution! 📞✨
 
+**MyCraftPhone** is a modern, cross-platform VoIP softphone built with Flutter and WebRTC. It offers HD voice and video calling, SIP/PBX integration, and enterprise-grade security—all in one lightweight package. Whether you're building for business communication, remote teams, or VoIP users, MyCraftPhone makes calling simple, fast, and secure.
+
+
 **Crystal-clear communication, everywhere.**
 
 After months of development, we’re excited to introduce **MyCraftPhone** — a **Flutter-based WebRTC VoIP softphone** built to make calling smooth, secure, and cross-platform.
