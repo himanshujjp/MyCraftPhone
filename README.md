@@ -56,13 +56,13 @@ Built with performance in mind — no battery drain or bloated background tasks.
 > ![MyCraftPhone UI]
 >
 <p float="left">
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQEjWp1FVwIF2A/feedshare-shrink_800/B56ZXYaPUFGUAg-/0/1743092515084?e=1750291200&v=beta&t=pSlUaoAt7BPPullvsW0BHTgqO5hzPKasQEAFX67gJoE" width="300" />
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQGPC3fB0CLWQw/feedshare-shrink_800/B56ZXYaPUBGcAk-/0/1743092514018?e=1750291200&v=beta&t=wBfk4ryh7ZjWDpxb7TQChY2iVBuGjgNPYusFj9EM0QQ" width="300" />
+  <img src="https://github.com/user-attachments/assets/9946886e-6013-4841-bcdc-533b082dd2b2" width="300" />
+  <img src="https://github.com/user-attachments/assets/47be19eb-683b-465e-ac88-3dd9a6d8a445" width="300" />
 </p>
 
 <p float="left">
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQETrcZMrgYYIA/feedshare-shrink_2048_1536/B56ZXYaPTzGsAo-/0/1743092514131?e=1750291200&v=beta&t=wKt5a1baKxCfjXdgKnUFaRFJA0TW-Z6Ji8cV2WjzGcA" width="300" />
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQGvF1QXKgknOg/feedshare-shrink_1280/B56ZXYaPUdHEAo-/0/1743092514206?e=1750291200&v=beta&t=19qrRoPDZqGbu7N21HIUjUpdh7JyeaPeOqOla8VJYO8" width="300" />
+  <img src="https://github.com/user-attachments/assets/690cf283-17f1-490e-94e2-fe98cd7bf797" width="300" />
+  <img src="https://github.com/user-attachments/assets/464fe1c5-cc33-44d9-ae7a-4cdd22545e28" width="300" />
 </p>
 
 
