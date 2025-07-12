@@ -50,6 +50,13 @@ Built with performance in mind — no battery drain or bloated background tasks.
 
 ---
 
+## 🎥 Demo
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/himanshujjp/MyCraftPhone/main/Demo.gif" width="400" />
+</p>
+
+
 ## 📸 Screenshots
 
 <p float="left">
