@@ -53,6 +53,7 @@ Built with performance in mind — no battery drain or bloated background tasks.
 ## 🎥 Demo
 
 <p align="left">
+  <img src="https://github.com/user-attachments/assets/bd77355a-311e-4236-bf75-1b4d3b9363cb" width="400" />
   <img src="https://raw.githubusercontent.com/himanshujjp/MyCraftPhone/main/Demo.gif" width="400" />
 </p>
 
@@ -60,12 +61,12 @@ Built with performance in mind — no battery drain or bloated background tasks.
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/690cf283-17f1-490e-94e2-fe98cd7bf797" width="200" />
-  <img src="https://github.com/user-attachments/assets/47be19eb-683b-465e-ac88-3dd9a6d8a445" width="200" />
+  <img src="https://github.com/user-attachments/assets/690cf283-17f1-490e-94e2-fe98cd7bf797" width="400" />
+  <img src="https://github.com/user-attachments/assets/47be19eb-683b-465e-ac88-3dd9a6d8a445" width="400" />
 </p>
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/464fe1c5-cc33-44d9-ae7a-4cdd22545e28" width="200" />
-  <img src="https://github.com/user-attachments/assets/9946886e-6013-4841-bcdc-533b082dd2b2" width="200" />
+  <img src="https://github.com/user-attachments/assets/464fe1c5-cc33-44d9-ae7a-4cdd22545e28" width="400" />
+  <img src="https://github.com/user-attachments/assets/9946886e-6013-4841-bcdc-533b082dd2b2" width="400" />
 </p>
 
  
