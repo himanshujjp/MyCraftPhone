@@ -78,7 +78,7 @@ The **MyCraftPhone** codebase is currently **private** while we finalize develop
 
 ## 📦 Download
 
-🔗 [Download MyCraftPhone APK](https://github.com/himanshujjp/releases/download/v1.0.0/MyCraftPhone.apk)
+🔗 [Download MyCraftPhone APK](https://github.com/himanshujjp/MyCraftPhone/releases/download/v1.0.0/MyCraftPhone.apk)
 
 > 📱 Compatible with Android 8.0+  
 > 🛡️ Note: You may need to allow installation from unknown sources.
