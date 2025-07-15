@@ -8,22 +8,44 @@
 
 ## 🌟 Features
 
-- ✅ **Cross-Platform:** Android, iOS, Web, and Desktop with Flutter
-- 🎥 **HD Voice & Video Calls:** Powered by WebRTC for real-time communication
-- ☎️ **SIP & PBX Integration:** Works with Asterisk, FreePBX, and other SIP-based systems
-- 🔒 **End-to-End Encryption:** Your calls and data stay safe
-- ⚡ **Lightweight & Efficient:** Minimal background activity and battery-friendly
+- ✅ **Cross-Platform:** Android, iOS, Web, and Desktop with Flutter  
+- 🎥 **HD Voice & Video Calls:** Powered by WebRTC for real-time communication  
+- ☎️ **SIP & PBX Integration:** Works with Asterisk, FreePBX, and other SIP-based systems  
+- 🔒 **End-to-End Encryption:** Your calls and data stay safe  
+- ⚡ **Lightweight & Efficient:** Minimal background activity and battery-friendly  
 
 ---
 
 ## 🧑‍💻 Tech Stack
 
-- **Flutter** – Cross-platform UI
-- **WebRTC** – Low-latency media streaming
+- **Flutter** – Cross-platform UI  
+- **WebRTC** – Low-latency media streaming  
 - **SIP (PJSIP / JsSIP)** – Call signaling and media handling
-- **FCM** – Push notifications
-- **Flutter CallKit** – Incoming outgoing call UI
-- **Local Storage** – Session persistence
+- **Asterisk** – SIP PBX backend for call routing and media bridging  
+- **FCM** – Push notifications  
+- **Flutter CallKit** – Incoming/outgoing call UI  
+- **Local Storage** – Session persistence  
+
+---
+
+## 🧪 Test Demo Accounts
+
+> 🧾 **Note:** This app is currently configured to work with the **demo SIP server** below.  
+> If you'd like to integrate with your **own SIP/PBX server**, please [contact us](mailto:himanshujjp7@email.com) to discuss setup and configuration.
+
+### 🔐 Demo SIP Credentials
+
+#### ✅ Account 1
+- **Username:** `8888`  
+- **Password:** `8888`  
+- **SIP URI:** `8888@143.244.175.177`  
+- **WebSocket:** `wss://143.244.175.177:8089/ws`
+
+#### ✅ Account 2
+- **Username:** `8889`  
+- **Password:** `8889`  
+- **SIP URI:** `8889@143.244.175.177`  
+- **WebSocket:** `wss://143.244.175.177:8089/ws`
 
 ---
 
@@ -33,7 +55,7 @@
 - 🏢 Internal tools for remote teams  
 - 🎧 Custom softphone for call centers  
 - 🔁 SIP phone replacement  
-- 🔐 Secure calling app for private communication
+- 🔐 Secure calling app for private communication  
 
 ---
 
@@ -45,7 +67,7 @@
 </p>
 <p float="left">
   <img src="https://github.com/user-attachments/assets/464fe1c5-cc33-44d9-ae7a-4cdd22545e28" width="400" />
-  <img src="https://github.com/user-attachments/assets/9946886e-6013-4841-bcdc-533b082dd2b2" width="400" />
+  <img src="https://github.com/user-attachments/assets/4e154044-0125-445f-b751-f6f50b162f22" width="400" />
 </p>
 
 ---
@@ -64,15 +86,15 @@
 The **MyCraftPhone** codebase is currently **private** while we finalize development and prepare for release.
 
 > 📬 **Want early access or a private demo?**  
-> [Contact us](mailto:your@email.com) or open an issue/discussion to request access or collaboration.
+> [Contact us](mailto:himanshujjp7@email.com) or open an issue/discussion to request access or collaboration.
 
 ---
 
 ## 📢 Coming Soon
 
-- [🟢] Public Beta Release  
-- [ ] Open-source SDK/Module  
-- [ ] Marketplace Launch  
+- ✅ Public Release  
+- ⏳ Open-source SDK/Module  
+- 🛒 Marketplace Launch  
 
 ---
 
@@ -92,4 +114,4 @@ The **MyCraftPhone** codebase is currently **private** while we finalize develop
 
 ---
 
-> _Built with ❤️ using Flutter + WebRTC + dart-sip-ua
+> _Built with ❤️ using Flutter + WebRTC + dart-sip-ua_
